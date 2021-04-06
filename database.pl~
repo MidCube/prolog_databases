@@ -1,0 +1,18 @@
+tName(user1,'User One').
+tName(acr31,'Andrew Rice').
+tName(arb33,'Alastair Beresford').
+tName(cig23,'Cameron Griffiths').
+tName(km781,'Karl Mose').
+tCollege(acr31, 'Churchill').
+tCollege(arb33, 'Robinson').
+tCollege(cig23,'Magdalene').
+tCollege(mef40,'Newnham').
+tGrade(acr31,'IA',2.1).
+tGrade(acr31,'IB',1).
+tGrade(acr31,'II',1).
+tGrade(arb33,'IA',2.1).
+tGrade(arb33,'IB',1).
+tGrade(arb33,'II',1).
+tGrade(cig23,'IA',2.1).
+tGrade(cig23,'IB',3).
+
